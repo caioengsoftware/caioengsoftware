@@ -1,4 +1,4 @@
-## Detalhes sobre mim
+## ℹ️ Detalhes sobre mim
 
 🗓️ Nascido em 2003
 📚 Estudante de Engenharia de Software 
