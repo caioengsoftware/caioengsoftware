@@ -11,6 +11,7 @@
 ## 💻 Linguagens de programação
 
 🐍 Python
+
 ☁️ SQL
 
 ---
